@@ -46,15 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mk55a/mk55a/output/snake.svg" alt="Snake animation" />
 
-###
+
+
 
 <!--
 **mk55a** is a ✨ MKSS Anudeep's ✨ github repository ! 
