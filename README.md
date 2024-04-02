@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mk55a/mk55a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mk55a** is a ✨ MKSS Anudeep's ✨ github repository ! 
 
 Here are some ideas to get you started:
 
