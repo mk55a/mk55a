@@ -1,18 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Anudeep
 
-###
+Unity & C# game developer based in Bengaluru, India. 5+ years shipping mobile games: an in-house SDK used across 50+ live games, real-money multiplayer games, and native Android/iOS plugins. Also a filmmaker and writer on the side.
 
-<p align="left">My name is Anudeep and I'm a Game Developer & a Filmmaker based in Bengaluru, India</p>
+✨ Creating bugs since 2015, and fixing them on real devices since 2021
 
-[My portfolio link](https://mkssa.carrd.co/)
+## 🎮 Featured projects
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning procedural generation and animation<br>🎯 Goals: Finishing Game Design Document for my 2D platformer game as of now.</p>
+- **[Trap the Cat](https://github.com/mk55a/TrapTheCat)** — Hex-grid puzzle in Unity where the hardest cat AI predicts whether it can outrun your blocks. Includes a level editor that auto-generates levels and keeps only those its solver proves winnable. Also exported as a playable ad with Unity Playworks.
+- **[Pulse Router](https://mk55a.itch.io/pulse-router)** — 3D circuit puzzle for phone and desktop, built with JavaScript and Three.js (WebGL).
 
 ###
 
