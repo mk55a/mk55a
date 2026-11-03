@@ -1,6 +1,6 @@
 # Hey 👋 I'm Anudeep
 
-Unity & C# game developer based in Bengaluru, India. 5+ years shipping mobile games: an in-house SDK used across 50+ live games, real-money multiplayer games, and native Android/iOS plugins. Also a filmmaker and writer on the side.
+Unity & C# game developer based in Bengaluru, India. 5+ years shipping mobile games: an in-house SDK used across 50+ live games, real-money multiplayer games, and native Android/iOS plugins.
 
 ✨ Creating bugs since 2015, and fixing them on real devices since 2021
 
