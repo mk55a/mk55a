@@ -5,7 +5,7 @@ Unity & C# game developer based in Bengaluru, India. 5+ years shipping mobile ga
 ✨ Creating bugs since 2015, and fixing them on real devices since 2021
 Much older portfolio reel: https://youtu.be/RsLwHz1up_Q?si=efYCEifqU_56NeKE
 ## 🎮 Featured projects
-
+- **[VoxelCircut](https://github.com/mk55a/VoxelCircuit)** — Currently in progress
 - **[Trap the Cat](https://github.com/mk55a/TrapTheCat)** — Hex-grid puzzle in Unity where the hardest cat AI predicts whether it can outrun your blocks. Includes a level editor that auto-generates levels and keeps only those its solver proves winnable. Also exported as a playable ad with Unity Playworks.
 - **[Pulse Router](https://mk55a.itch.io/pulse-router)** — 3D circuit puzzle for phone and desktop, built with JavaScript and Three.js (WebGL).
 
